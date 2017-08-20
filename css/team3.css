@@ -3,6 +3,7 @@
  * Added by a Team member
  */
 /* USER LIST TABLE */
+/*HEADING STYLES*/
 .user-list tbody td > img {
     position: relative;
 	max-width: 50px;
@@ -101,8 +102,15 @@
  */
 .team3_heading {
   margin-top:-50px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  color: #888;
 }
 
+#logo h3{
+  color: #ffcc5c;
+}
 .team3_center_td {
   text-align: center;
 }
